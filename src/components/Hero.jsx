@@ -160,7 +160,7 @@ export function Hero() {
           color: "white"
         }}
       >
-        Senior Business Systems Analyst & Technology Transformation Specialist
+        Senior Business Systems Analyst & Business Transformation Specialist
       </h2>
 
       <p
@@ -172,9 +172,8 @@ export function Hero() {
           opacity: 0.95,
         }}
       >
-        I bridge business strategy and engineering execution across enterprise
-        integration, cloud, cybersecurity, data, and digital transformation
-        initiatives.
+        I translate strategic vision into measurable business outcomes through the alignment of strategy, technology, governance, and execution.
+        I possess Government of Canada Reliability Clearance
       </p>
 
       <div
