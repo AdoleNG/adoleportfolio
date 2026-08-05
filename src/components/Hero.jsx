@@ -194,11 +194,11 @@ export function Hero() {
           }}
         >
           <h3 style={{ marginBottom: "0.75rem", fontWeight: "700" }}>
-            Enterprise Integration & Data Platforms
+            Cybersecurity, Data & Enterprise Platforms
           </h3>
           <p style={{ lineHeight: "1.6", opacity: 0.9 }}>
-            Designing and analyzing complex interfaces, data flows, ingestion
-            pipelines, and multi-system integrations.
+            Leading cybersecurity and cloud governance initiatives, enterprise data and systems integration, 
+            SIEM modernization, compliance programs, and custom platform development.
           </p>
         </div>
 
@@ -210,11 +210,11 @@ export function Hero() {
           }}
         >
           <h3 style={{ marginBottom: "0.75rem", fontWeight: "700" }}>
-            Cloud, Cybersecurity & Technology Governance
+            Cloud Transformation & Enterprise Modernization
           </h3>
           <p style={{ lineHeight: "1.6", opacity: 0.9 }}>
-            Driving cloud governance, cybersecurity compliance, SIEM
-            modernization, and identity management.
+            Leading cloud migrations, application rationalization, Microsoft 365 tenant migrations, 
+            enterprise architecture modernization, and digital transformation initiatives.
           </p>
         </div>
 
@@ -226,11 +226,11 @@ export function Hero() {
           }}
         >
           <h3 style={{ marginBottom: "0.75rem", fontWeight: "700" }}>
-            Digital Transformation & Modernization
+            Digital Transformation & Empowering Modern Workplaces
           </h3>
           <p style={{ lineHeight: "1.6", opacity: 0.9 }}>
-            Leading cloud migrations, application rationalization, Microsoft 365
-            transformation, and endpoint modernization.
+            Leading endpoint modernization, zero-touch device provisioning, Microsoft Intune transformation, 
+            identity and privileged access modernization (PAM/PIM), and IT process optimization
           </p>
         </div>
       </div>
