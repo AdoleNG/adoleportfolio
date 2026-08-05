@@ -160,7 +160,7 @@ export function Hero() {
           color: "white"
         }}
       >
-        Senior Business Systems Analyst & Business Transformation Specialist
+        Senior Business Systems Analyst & Digital Transformation Specialist
       </h2>
 
       <p
