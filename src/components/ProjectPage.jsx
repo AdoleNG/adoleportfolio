@@ -3,7 +3,7 @@ import { useParams, Link } from "react-router-dom";
 const projectData = {
   eclrt: {
     title: "Enterprise Data Warehouse — Eglinton Crosstown LRT",
-    role: "Lead Business Systems Analyst & Systems Integration Specialist",
+    role: "Lead Business Systems Analyst & Systems Integration Consultant",
     description:
       "Led requirements engineering and interface governance for a hybrid Enterprise Data Warehouse (EDW) utilizing Qumulo NAS storage to ingest data across 13 core transit subsystems—including Signaling & Train Control, SCADA, Intrusion Access Control, APCS, BCN, Network Management, and Master Clock. Translated RFP mandates from Her Majesty the Queen in Right of Ontario (HMQE) into end-to-end functional, technical, physical, and data interface specifications within a multi-vendor orchestration framework (Control-M, CaelumOne, Atempo, and Spectra Logic Tape Library). Coached partner firm BAs and QA engineers, authored key systems engineering artifacts (ICDs, RTM, V&V Matrix, FAT/SAT, PICO), and partnered with the Program Manager to enforce scope control and maintain schedule alignment.",
       image: "/images/eclrt.png",
