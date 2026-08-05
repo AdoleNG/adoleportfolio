@@ -5,7 +5,7 @@ export function ProjectsSection() {
     {
       id: "eclrt",
       title: "Enterprise Data Warehouse — Eglinton Crosstown LRT",
-      role: "Lead Business Systems Analyst & Systems Integration Consultant,
+      role: "Lead Business Systems Analyst & Systems Integration Consultant",
       technologyStack:
         "Microsoft SQL Server • Qumulo • ETL • Atempo • BMC-Control • Spectra Logic • SCADA • GTFS / GTFS-Realtime • CaelumOne Integration Platform",
       image: "/images/eclrt.png",

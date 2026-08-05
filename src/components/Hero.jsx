@@ -58,7 +58,7 @@ export function Hero() {
     const projects = [
       {
         title: "Enterprise Data Warehouse — Eglinton Crosstown LRT",
-        role: "Lead Business Analyst & Systems Integration Specialist",
+        role: "Lead Business Analyst & Systems Integration Consultant",
         description:
           "Led requirements engineering and interface governance for a hybrid EDW utilizing Qumulo NAS storage to ingest data across 13 core transit subsystems. Authored ICDs, RTM, V&V Matrix, FAT/SAT, PICO.",
       },

@@ -21,7 +21,7 @@ const projectData = {
     title: "VerseCast — Full-stack Bible Audio Platform",
     role: "Founder & Lead Engineer",
     description:
-      "Case study describing architecture, FastAPI backend, React frontend, STT pipeline, dynamic rendering, and deployment strategy. Covers UI/UX, audio pipeline, and cloud hosting.",
+      "Engineered an end‑to‑end AI pipeline integrating Azure Speech‑to‑Text, FastAPI, and a custom Python NLP engine to classify spoken references and surface relevant content in real time. Built a multi‑service architecture leveraging FastAPI, WebSockets, Supabase, Azure STT, React + Vite, TailwindCSS, Render, and Cloudflare DNS, enabling low‑latency transcript ingestion, operator‑driven content validation, and multi‑tenant session management. Delivered a production‑ready marketing site and onboarding flow, implemented Resend‑based communication pipelines, and deployed stable environments supporting live events. Led product direction, UX design, and technical governance across backend, frontend, and real‑time systems, ensuring reliable performance, reduced operator workload, and synchronized on‑screen content during live speaking engagements..",
     image: "/images/versecast.png",
   },
 
