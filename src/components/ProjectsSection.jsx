@@ -34,7 +34,7 @@ export function ProjectsSection() {
       title: "Global ISA DevOps & Flexera Enterprise Asset Governance Program",
       role: "Senior Business Analyst",
       technologyStack:
-        "Flexera • DevOps • IT Asset Management • Cloud Governance • Azure • Enterprise Reporting",
+        "Flexera • DevOps • IT Asset Management • Flexera Business Adapter Studio • Kanban • Kubernetes • Nutanix • VMware ESXi • Enterprise Reporting • Data Masking • Agile/Scrum",
       image: "/images/cgi.png",
     },
 
