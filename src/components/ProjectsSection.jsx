@@ -32,7 +32,7 @@ export function ProjectsSection() {
     {
       id: "cgi",
       title: "Global ISA DevOps & Flexera Enterprise Asset Governance Program",
-      role: "Senior Business Analyst",
+      role: "Senior Business Analyst/Scrum Master",
       technologyStack:
         "Flexera • DevOps • IT Asset Management • Flexera Business Adapter Studio • Kanban • Kubernetes • Nutanix • VMware ESXi • Enterprise Reporting • Data Masking • Agile/Scrum",
       image: "/images/cgi.png",
