@@ -226,7 +226,7 @@ export function Hero() {
           }}
         >
           <h3 style={{ marginBottom: "0.75rem", fontWeight: "700" }}>
-            Digital Transformation & Empowering Modern Workplaces
+            Digital Transformation & Modern Workplaces
           </h3>
           <p style={{ lineHeight: "1.6", opacity: 0.9 }}>
             Leading endpoint modernization, zero-touch device provisioning, Microsoft Intune transformation, 
