@@ -115,7 +115,7 @@ export function ProjectsSection() {
       image: "/images/transcanada.png",
     },
     {
-    id: "hrm",
+    id: "hrmfleet",
     title: "Halifax Regional Municipality — Fleet Management Solution Reimplementation",
     role: "Senior Business Analyst",
     technologyStack:
