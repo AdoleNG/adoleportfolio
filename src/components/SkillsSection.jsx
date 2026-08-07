@@ -11,17 +11,23 @@ export function SkillsSection() {
       <article
         style={{
           background: "#1E2248",
-          color: "white",
+          color: "white",              // ← THIS ensures all text is white
           padding: "2rem",
           borderRadius: "16px",
           boxShadow: "0 4px 12px rgba(0,0,0,0.15)",
         }}
       >
-        <h2 style={{ marginBottom: "1rem", fontSize: "1.8rem" }}>
+        <h2 style={{ marginBottom: "1rem", fontSize: "1.8rem", color: "white" }}>
           Professional Skills & Competencies
         </h2>
 
-        <ul style={{ lineHeight: "1.8", paddingLeft: "1.2rem" }}>
+        <ul
+          style={{
+            lineHeight: "1.8",
+            paddingLeft: "1.2rem",
+            color: "white",            // ← Ensures list items are white
+          }}
+        >
           <li>
             <strong>Business Analysis & Process:</strong> Process Modelling (BPMN 2.0, Visio), Requirements Analysis, Needs Assessment, Business Process Improvement, Quality Assurance & Testing, Test Script Development
           </li>
