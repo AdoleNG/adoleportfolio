@@ -6,6 +6,8 @@ import { ProjectsSection } from "./components/ProjectsSection";
 import { ContactSection } from "./components/ContactSection";
 import { EducationSection } from "./components/EducationSection";
 import { ProjectPage } from "./components/ProjectPage";
+import { SkillsSection } from "./components/SkillsSection";
+
 
 function App() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -65,7 +67,11 @@ function App() {
               <div id="projects">
                 <ProjectsSection />
               </div>
-
+              
+              <div id="skills">
+              <SkillsSection />
+              </div>
+              
               <div id="education">
                 <EducationSection />
               </div>
