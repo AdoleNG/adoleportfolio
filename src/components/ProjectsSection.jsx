@@ -34,10 +34,17 @@ export function ProjectsSection() {
       title: "Global ISA DevOps & Flexera Enterprise Asset Governance Program",
       role: "Senior Business Analyst/Scrum Master",
       technologyStack:
-        "Flexera • DevOps • IT Asset Management • Flexera Business Adapter Studio • Kanban • Kubernetes • Nutanix • VMware ESXi • Enterprise Reporting • Data Masking • Agile/Scrum",
+        "Flexera • DevOps • IT Asset Management • Flexera Business Adapter Studio • Kanban • Kubernetes • Nutanix • VMware • Hyper-V • Data Masking • Agile/Scrum",
       image: "/images/cgi.png",
     },
-
+    {
+      id: "iacdevops",
+      title: "Cloud Infrastructure Governance, Infrastructure as Code & DevOps Transformation",
+      role: "Senior Business Systems Analyst & Cloud Governance Lead",
+      technologyStack:
+        "Terraform • Azure Policy • DevOps • Cloud Governance • Ansible • Kubernetes • Docker • Azure DevOps / GitHub • HashiCorp Vault / Key Vault • Technical Documentation • Agile",
+      image: "/images/iacdevops.png",
+    },
     {
       id: "cpkc",
       title:
@@ -94,7 +101,7 @@ export function ProjectsSection() {
         "Digital Multimedia Recording & Retrieval System (DMMRRS) — Transit Infrastructure Integration (Eglinton Crosstown LRT)",
       role: "Senior Business Analyst",
       technologyStack:
-        "Digital Video • IP Networking • Enterprise Storage • Database Systems • Systems Integration • Transit Technology",
+        "Digital Video • IP Networking • Swagger UI • Database Systems • Systems Integration • Transit Technology",
       image: "/images/dmmrrs.png",
     },
 
@@ -107,7 +114,15 @@ export function ProjectsSection() {
         "Microsoft Azure • Application Rationalization • Cloud Migration • Azure Migrate • SQL Server • Enterprise Architecture",
       image: "/images/transcanada.png",
     },
-  ];
+    {
+    id: "hrm",
+    title: "Halifax Regional Municipality — Fleet Management Solution Reimplementation",
+    role: "Senior Business Analyst",
+    technologyStack:
+      "FleetFocus • MS Visio • Ms Teams •  • SOP Development •  Business Process Improvement • Stakeholder Workshops • Organizational Readiness",
+    image: "/images/hrmfleet.png",
+     },
+    ];
 
   return (
     <section

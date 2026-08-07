@@ -32,6 +32,13 @@ const projectData = {
       "Co-led a global, highly technical and multidisciplinary bilingual DevOps team responsible for enterprise IT Asset Management and technology governance across millions of assets spanning 174 countries. Leveraged Flexera and Business Adapter Studio to establish enterprise-wide asset visibility, integrate and normalize asset data, automate provisioning and deprovisioning, and maintain software licensing, compliance, security, and environment governance. Served as Scrum Master and coordinated Agile delivery across infrastructure, security, platform, and technology teams, while reporting to the CIO's Governance Board and translating enterprise governance requirements into operational controls and technology solutions. Managed complex software and infrastructure lifecycles across QA, production, virtualized, and containerized environments, including Microsoft and Oracle licensing, organizational restructuring, device reassignment and renaming, patching, encryption, vulnerability remediation, and country-specific compliance requirements. Leveraged APIs and enterprise automation to provision and deprovision devices, servers, and virtual machines at scale while integrating with Kubernetes, Nutanix, VMware ESXi, data masking platforms, and other enterprise infrastructure technologies.",
     image: "/images/cgi.png",
   },
+  iacdevops: {
+      title: "Cloud Infrastructure Governance, Infrastructure as Code & DevOps Transformation",
+      role: "Senior Business Systems Analyst & Cloud Governance Lead",
+      description:
+        "Led the business analysis and governance workstream for a cloud infrastructure transformation at People Corporation, partnering with a Senior Cloud Engineer to establish a standardized Infrastructure as Code (IaC) operating model using Terraform. Assessed the existing cloud infrastructure provisioning and management practices, identified risks associated with manual and inconsistent resource management, and translated business, operational, security, and governance needs into documented requirements, standards, controls, and implementation guidelines. Defined the target-state approach for centralized, repeatable, version-controlled, and auditable infrastructure provisioning, including requirements for Terraform adoption, infrastructure standardization, environment consistency, change management, access control, code review, governance, and lifecycle management.\n\nDeveloped the governance policies and implementation requirements that guided the Senior Cloud Engineer in designing and implementing the Terraform solution, ensuring that the technical implementation aligned with organizational controls and enterprise technology objectives. Established requirements for managing existing and new cloud resources through Infrastructure as Code, reducing configuration drift, improving infrastructure consistency, increasing change traceability, and reducing dependency on individual cloud engineers. Facilitated collaboration between business stakeholders, cloud engineering, and technology teams, translating technical concepts into clear business requirements and governance controls while supporting the transition from manually managed cloud infrastructure toward a standardized DevOps operating model. Helped establish a scalable foundation for repeatable cloud provisioning, controlled infrastructure changes, improved auditability, and sustainable cloud governance.",
+      image: "/images/iacdevops.png",
+  },
 
   cpkc: {
     title: "CPKC / CP Rail — Enterprise Cybersecurity Compliance & TSA SD‑2022‑01 Alignment Program",
@@ -86,7 +93,16 @@ const projectData = {
   description:
     "Led application portfolio rationalization and Azure migration strategy for TransCanada Energy. Established the baseline inventory schema, deployed Azure Migrate agentless scanners, and reconciled discovery data with the CMDB. Applied the Gartner TIME model (Tolerate, Invest, Migrate, Eliminate) to evaluate business capabilities, eliminate functional redundancies, and optimize TCO—identifying licensing inefficiencies across Dev, QA, and Prod environments. Documented migration sequencing, dependencies, and operational constraints, presenting decision packages to the Architecture Review Board (ARB) to govern cloud modernization and sunset strategies.",
   image: "/images/transcanada.png"
-},
+  },
+
+  hrmfleet: {
+  title: "Halifax Regional Municipality — Fleet Management Solution Reimplementation",
+  role: "Senior Business Analyst",
+  description:
+  "Led business analysis, process improvement, governance, and organizational readiness activities supporting the reimplementation of FleetFocus across HRM’s unionized fleet operations, spanning Transit, Fire & Emergency, and Ferry services. Facilitated stakeholder workshops to define future-state processes and requirements across Inventory Management, Preventive Maintenance, and Work Management, while developing process documentation, Standard Operating Procedures (SOPs), and a FleetFocus Governance Framework—establishing a sustainable foundation for operational support, user adoption, and continuous improvement.",
+  image: "/images/hrmfleet.png",
+  },
+
 
 };
 
