@@ -81,7 +81,7 @@ export function ProjectsSection() {
         "Azure Innovation Sandbox — Secure Cloud Experimentation & Governance Program (Canadian Tier-1 Bank)",
       role: "Senior Business Analyst & Cloud Governance Lead",
       technologyStack:
-        "Microsoft Azure • Azure Policy • Entra ID • RBAC • Cloud Governance • Security Controls • DevOps",
+        "Microsoft Azure • Azure Policy • Entra ID • Terraform • Cloud Governance • Microsoft Well-Architected Framework • Sentinel • Log Analytics • Azure Budgets",
       image: "/images/azureSandbox.png",
     },
 
@@ -111,7 +111,7 @@ export function ProjectsSection() {
         "Application Rationalization & Azure Migration — TransCanada Energy",
       role: "Senior Business Analyst & Cloud Migration Lead",
       technologyStack:
-        "Microsoft Azure • Application Rationalization • Cloud Migration • Azure Migrate • SQL Server • Enterprise Architecture",
+        "Microsoft Azure • Azure Migrate • Confluence • SQL Server",
       image: "/images/transcanada.png",
     },
     {
