@@ -13,7 +13,8 @@ const projectData = {
     title: "Microsoft 365 Tenant-to-Tenant Migration (OpenText)",
     role: "Senior Business Analyst",
     description:
-      "At OpenText, I served as a Consultant and Senior Business Analyst supporting the Microsoft 365 tenant‑to‑tenant migration following the 2023 acquisition of Micro Focus. I led multi‑partner discovery sessions involving OpenText, Micro Focus, and external consulting teams to define migration scope, requirements, and cross‑tenant dependencies. The project covered core Microsoft 365 workloads including Exchange Online (Outlook email), SharePoint Online, OneDrive, and Microsoft Teams. I also supported Organizational Change Management by conducting user and application impact assessments and developing targeted communications to drive readiness and adoption across the enterprise.   image: "/images/opentext.png",
+      "At OpenText, I served as a Consultant and Senior Business Analyst supporting the Microsoft 365 tenant‑to‑tenant migration following the 2023 acquisition of Micro Focus. I led multi‑partner discovery sessions involving OpenText, Micro Focus, and external consulting teams to define migration scope, requirements, and cross‑tenant dependencies. The project covered core Microsoft 365 workloads including Exchange Online (Outlook email), SharePoint Online, OneDrive, and Microsoft Teams. I also supported Organizational Change Management by conducting user and application impact assessments and developing targeted communications to drive readiness and adoption across the enterprise",
+      image: "/images/opentext.png",
   },
 
   versecast: {
